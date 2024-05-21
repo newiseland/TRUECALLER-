@@ -26,9 +26,9 @@ your api key is in after "id" : .
  
  ### SUPPORT ⚡
  
- - [CHANNEL] (https://t.me/tmm_heroku_world) 
+ - [CHANNEL](https://t.me/tmm_heroku_world) 
 
- - [GROUP] (https://t.me/tmm_support_chat)
+ - [GROUP](https://t.me/tmm_support_chat)
  
 # Note 
 this is not final bot and updates upcomming. you can create pull requests. bcz currently i don't have time to update. 
