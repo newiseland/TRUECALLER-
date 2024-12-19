@@ -8,7 +8,7 @@
   
 <details><summary> Deploy to Heroku </summary>
   
-<a href="https://heroku.com/deploy?template=https://github.com/TMM-TEAM/truecallerbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"></p></a>
+<a href="https://github.com/newiseland/TRUECALLER-"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"></p></a>
 </details>
 
 
@@ -48,4 +48,4 @@ this is not final bot and updates upcomming. you can create pull requests. bcz c
 <h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
 </h3>
 
-[![Deploy To Heroku](https://graph.org/file/826b0a2fc82db8328a113.png)](https://dashboard.heroku.com/new-app?template=https://github.com/MISHRAJII123/SARKARMADE)
+[![Deploy To Heroku](https://graph.org/file/826b0a2fc82db8328a113.png)](https://dashboard.heroku.com/new-app?template=https://github.com/newiseland/TRUECALLER-)
